@@ -1,0 +1,1 @@
+A Mycroft Skill to use Karotz as an IoT.
